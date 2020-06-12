@@ -1,0 +1,9 @@
+# Assets
+assets/models/*
+!assets/models/ABOUT.md
+
+# Entorno virtual
+venv
+
+# Python Cache
+**/__pycache__
